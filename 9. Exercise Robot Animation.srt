@@ -1,0 +1,40 @@
+﻿1
+00:00:00,750 --> 00:00:06,740
+Hello! This is your new robot friend and I have a fun little challenge for you.
+
+2
+00:00:06,810 --> 00:00:10,230
+I've created this robot that is actually pretty cool.
+
+3
+00:00:10,230 --> 00:00:18,310
+So as you hover, his head grows big and he can also dance:
+
+4
+00:00:18,310 --> 00:00:23,720
+Now here's the challenge: I've created the majority of this robot.
+
+5
+00:00:23,730 --> 00:00:27,360
+But you first need to assemble it, so it looks like this.
+
+6
+00:00:27,820 --> 00:00:35,030
+And in the next section I've left a few files for you: an index file and the CSS file.
+
+7
+00:00:35,140 --> 00:00:42,430
+The only problem is that these parts are all over the page and I need you to assemble them, so that you
+
+8
+00:00:42,430 --> 00:00:44,190
+can have a robot friend as well.
+
+9
+00:00:44,230 --> 00:00:51,100
+In the following section after the exercise I'll have the solution, that you can use, but give it a try
+
+10
+00:00:51,670 --> 00:00:54,660
+and hopefully you'll have a new robot friend too.
+
